@@ -10,7 +10,7 @@ to its original look! In this lab, we've created a virtual wall. Using only
 CSS, how can you remove the unsightly tags?
 
 ## Objectives
-
+dà
 1. Observe the browser developer tools
 2. Use specificity to override existing styles
 
